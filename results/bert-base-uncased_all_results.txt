@@ -1,0 +1,35 @@
+results_25_tweets:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	0.959600	1.218885	0.676437	0.368486	0.704724	0.791927	0.023231	0.016703	    
+
+
+results_25_tweets_5ps:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	0.484000	1.477307	0.680673	0.478853	0.692913	0.024083	0.005296	0.033791	    
+
+
+results_50_tweets:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	1.011600	1.196422	0.687344	0.473779	0.704724	0.847539	0.019183	0.010499
+
+
+results_50_tweets_5ps:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	0.497300	1.346982	0.676333	0.450888	0.688976	0.019903	0.004374	0.026605
+
+results_75_tweets:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	0.969200	1.297975	0.676141	0.481699	0.692913	0.918798	0.022159	0.012241
+
+results_75_tweets_5ps:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	0.489400	1.386659	0.684265	0.457620	0.704724	0.255094	0.015073	0.056094	    
+
+results_100_tweets:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	0.953700	1.364802	0.664931	0.397406	0.704724	0.692148	0.030335	0.038080
+
+
+results_100_tweets_5ps:
+Step	Training Loss	Validation Loss	F1 Weighted	F1 Macro	F1 Micro	Kl Div	Js Div	Rmse
+500	0.474900	1.530436	0.662149	0.465365	0.665354	0.214821	0.005831	0.012241	    
